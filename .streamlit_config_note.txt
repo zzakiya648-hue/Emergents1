@@ -1,0 +1,4 @@
+Optional Streamlit secrets configuration:
+Create a folder named .streamlit and a file named secrets.toml inside it.
+Add: OPENAI_API_KEY = "your-api-key"
+Do not upload secrets.toml to GitHub.
